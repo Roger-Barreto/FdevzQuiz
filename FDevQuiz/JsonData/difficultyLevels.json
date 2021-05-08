@@ -1,0 +1,32 @@
+{
+  "quizzes": [
+    {
+      "quizId": 1,
+      "difficultyId": 3,
+      "quizTitle": "Estrutura Banco de Dados",
+      "questionQuantity": 10,
+      "answeredQuantity": 3
+    },
+    {
+      "quizId": 2,
+      "difficultyId": 2,
+      "quizTitle": "Console App(.Net Core)",
+      "questionQuantity": 10,
+      "answeredQuantity": 3
+    },
+    {
+      "quizId": 3,
+      "difficultyId": 1,
+      "quizTitle": "JSON (JavaScript Object Notation)",
+      "questionQuantity": 10,
+      "answeredQuantity": 3
+    },
+    {
+      "quizId": 4,
+      "difficultyId": 4,
+      "quizTitle": "Métodos de requisição HTTP",
+      "questionQuantity": 10,
+      "answeredQuantity": 3
+    }
+  ]
+}
