@@ -1,0 +1,66 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "difficultyId": 3,
+      "title": "Estrutura Banco de Dados",
+      "answeredQuantity": 3
+      "questions": [
+        {
+          "title": "Questão 01",
+          "alternatives": [
+            {
+              "text": "Alternativa 01"
+            },
+            {
+              "text": "Alternativa 02"
+            },
+            {
+              "text": "Alternativa 03"
+            },
+            {
+              "text": "Alternativa 04",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "Questão 02",
+          "alternatives": [
+            {
+              "text": "Alternativa 01"
+            },
+            {
+              "text": "Alternativa 02"
+            },
+            {
+              "text": "Alternativa 03"
+            },
+            {
+              "text": "Alternativa 04",
+              "isCorrect": true
+            }
+          ]
+        },
+        {
+          "title": "Questão 03",
+          "alternatives": [
+            {
+              "text": "Alternativa 01"
+            },
+            {
+              "text": "Alternativa 02"
+            },
+            {
+              "text": "Alternativa 03"
+            },
+            {
+              "text": "Alternativa 04",
+              "isCorrect": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

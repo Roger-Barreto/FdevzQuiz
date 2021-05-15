@@ -1,0 +1,20 @@
+{
+  "difficultyLevels": [
+    {
+      "id": 1,
+      "name": "fácil"
+    },
+    {
+      "id": 2,
+      "name": "médio"
+    },
+    {
+      "id": 3,
+      "name": "Difícil"
+    },
+    {
+      "id": 4,
+      "name": "Expert"
+    }
+  ]
+}

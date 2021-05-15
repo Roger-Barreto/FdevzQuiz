@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Odezio Pereira",
+    "score": 75,
+    "imgUrl": "https://avatars.githubusercontent.com/OdezioRSPereira"
+  },
+  {
+    "id": 2,
+    "name": "Roger Barreto",
+    "score": 0,
+    "imgUrl": "https://avatars.githubusercontent.com/Roger-Barreto"
+  },
+  {
+    "id": 3,
+    "name": "Felipe Evaristo",
+    "score": 3,
+    "imgUrl": "https://avatars.githubusercontent.com/Felipe-Evaristo"
+  }
+]
